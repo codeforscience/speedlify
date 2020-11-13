@@ -12,7 +12,8 @@ module.exports = {
 	urls: [
 		"https://codeforscience.org",
 		"https://codeforscience.org/about",
-		"https://codeforscience.org/people",
-		"https://codeforscience.org/projects"
+		"https://codeforscience.org/board",
+		"https://codeforscience.org/sponsored-projects",
+		"https://codeforscience.org/donate"
 	]
 };
